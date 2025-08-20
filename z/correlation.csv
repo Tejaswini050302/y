@@ -1,7 +1,8 @@
-Data,Correlation
+critical supply chain metrics,Correlation
 Supplier_Lead_Time,0.1480866544
 Inventory_Levels,0.1482823871
 Order_Frequency,0.1689295491
 Delivery_Performance,0.1794684932
 Cost_Per_Unit,0.1463567412
+
 
