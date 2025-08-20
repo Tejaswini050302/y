@@ -1,8 +1,10 @@
-critical supply chain metrics,Correlation
-Supplier_Lead_Time,0.1480866544
-Inventory_Levels,0.1482823871
-Order_Frequency,0.1689295491
-Delivery_Performance,0.1794684932
-Cost_Per_Unit,0.1463567412
+critical supply chain metrics,Supplier_Lead_Time,Inventory_Levels,Order_Frequency,Delivery_Performance,Cost_Per_Unit
+Correlation,0.1480866544,0.1482823871,0.1689295491,0.1794684932,0.1463567412
+
+
+
+
+
+
 
 
